@@ -1,0 +1,84 @@
+a:link {
+  color: #1753C4;
+  text-decoration: none;
+}
+
+a:visited {
+  color: orangered;
+  text-decoration: none;
+}
+
+a:hover {
+  color: orangered;
+  text-decoration: underline;
+}
+
+body {
+  background-color: white !important;
+  color: #1753C4 !important;
+}
+
+.foo {
+  background-color: lightblue;
+  font-size: 2rem;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.bar {
+  background-color: #dc592a;
+  color: white;
+  font-size: 1.8rem;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.building {
+  background-color: lightcyan;
+  font-size: 1.5rem;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.fourClasses {
+  background-color: #f07a5c;
+  color: white;
+  font-size: 1.6rem;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.videos {
+  background-color: #e4b07d;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.final {
+  background-color: lightskyblue;
+  font-size: 2.3rem;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+.final span {
+  font-size: 1.5rem;
+}
+
+.prefooter {
+  background-color: lightblue;
+}
+
+a {
+  color: black;
+  font-weight: 600;
+  font-size: 14px !important;
+}
+
+.favicons {
+  height: 24px;
+  width: 24px;
+}
+
+#footer {
+  margin-top: 50px;
+}
